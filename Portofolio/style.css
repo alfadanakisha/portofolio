@@ -1,0 +1,15 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #ec8dad;
+}
+
+#MyHobby {
+  background-color: #ec8dad;
+}
+
+section {
+  padding-top: 5rem;
+}
