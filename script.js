@@ -1,6 +1,10 @@
-var tes = confirm('would you like to see my website?');
-if (tes == true) {
-  alert('user menekan OK');
-} else {
-  alert('user menekan NO');
+alert('Selamat Datang...');
+var lagi = true;
+while (lagi === true) {
+  var nama = prompt('Masukkan Nama:');
+  alert('Halloo ' + nama);
+
+  lagi = confirm('coba lagi?');
 }
+
+alert('Terima Kasih.');
